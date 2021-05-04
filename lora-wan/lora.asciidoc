@@ -1,0 +1,34 @@
+= Lora
+Rakesh S
+
+== Knock Knock.. Client here!!!
+
+=== What is LoRa?
+
+  * Long Range
+  * Developed by Semtech
+  * Low Power Wide Area Modulation technique
+  * Based on Chirp Spread Spectrum modulation technique (CSS)
+
+=== Sample lora module
+
+image::figures/SX1276.jpg[align="center", width="50%"]
+
+=== Technically speaking...
+
+  * LoRa uses sub-gigahertz radio frequency bands
+    * 868 MHz : Europe
+    * 915 MHz : Australia and North America
+    * 865 - 867 MHz : India
+  * Data rate 0.3 kbit/s and 27 kbit/s depending on spreading factor
+  * LoRa is the physical layer, LORAWAN is MAC Layer
+  * LORAWAN acts mainly as a network layer protocol for managing communication
+    between LPWAN gateways and end-node device
+
+=== About LoRa Alliance
+
+  * Open non-profit association with over 500 members
+  * Association created in 2015 to support LoRaWAN
+  * Ensure interoperability of all LoRaWAN products and technologies.
+  
+== Thank you!

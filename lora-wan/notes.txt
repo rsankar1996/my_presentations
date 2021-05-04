@@ -1,0 +1,13 @@
+
+
+In digital communications, chirp spread spectrum (CSS) is a spread spectrum technique that uses wideband linear frequency modulated chirp pulses 
+to encode information. A chirp is a sinusoidal signal whose frequency increases or decreases over time (often with a polynomial expression for the 
+relationship between time and frequency). 
+
+(SF) and represents the number of symbols sent per bit of information
+
+Lower SF means more chirps are sent per second; hence, you can encode more data per second. Higher SF implies fewer chirps per second; hence, there are fewer data to encode per second. 
+
+Lorawan acts mainly as a network layer protocol for managing communication between LPWAN gateways and end-node devices
+
+WiFi connectivity covers short- and medium-range use cases at high data rates, while LoRaWAN handles long-range use cases at low data rates.
