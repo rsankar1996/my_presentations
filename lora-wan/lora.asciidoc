@@ -3,6 +3,10 @@ Rakesh S
 
 == Knock Knock.. Client here!!!
 
+=== This is what we need!
+
+image::figures/Project1.png[align="center", width="40%"]
+
 === What is LoRa?
 
   * Long Range
@@ -17,18 +21,34 @@ image::figures/SX1276.jpg[align="center", width="50%"]
 === Technically speaking...
 
   * LoRa uses sub-gigahertz radio frequency bands
-    * 868 MHz : Europe
-    * 915 MHz : Australia and North America
-    * 865 - 867 MHz : India
   * Data rate 0.3 kbit/s and 27 kbit/s depending on spreading factor
   * LoRa is the physical layer, LORAWAN is MAC Layer
   * LORAWAN acts mainly as a network layer protocol for managing communication
     between LPWAN gateways and end-node device
+
+=== LoRa Frequency bands
+
+[options="header",width="80%",align="center"]
+|======
+| Region 			| Frequency band
+| Europe	    		| 863 ~ 870 MHz
+| United States   	| 902 ~ 928 MHz
+| South Korea		| 920 ~ 923 MHz
+| India			| 865 ~ 867 MHz	
+|======
+
+=== Technical Specifications
+
+image::figures/tech_spec.png[align="center", width="50%"]
 
 === About LoRa Alliance
 
   * Open non-profit association with over 500 members
   * Association created in 2015 to support LoRaWAN
   * Ensure interoperability of all LoRaWAN products and technologies.
-  
+ 
+=== Why LoRa
+
+image::figures/tech_gap.png[align="center", width="50%"]
+ 
 == Thank you!
