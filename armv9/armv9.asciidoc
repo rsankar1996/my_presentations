@@ -1,0 +1,43 @@
+= ARM v9
+Rakesh S
+
+== "Arm's solution to the future needs of AI, security and specialized computing is v9"
+
+=== From there to here
+
+image::figures/v9_timeline.png[align="center", width="80%"]
+
+=== Some info...
+
+  * ARM introduced it's V9 architecture on March 31, 2021
+  * new capabilities in Armv9 will accelerate the move from general-purpose to more specialized (AI, IoT, 5G)
+
+=== 3 Pillars
+
+ARM Considers three major pillars of their v9 architecture:
+
+  * Security
+  * Artificial Intelligence
+  * Improved vector and DSP capability
+
+=== Security: Computing's greatest challenge
+
+  * Introduces Arm Confidential Compute Architecture (CCA)
+  * Introduces the concept of dynamically created Realms
+  * For example, in business applications, Realms can protect commercially sensitive data and code from
+    the rest of the system while it is in-use, at rest, and in transit.
+
+=== AI demands specialized, scalable solutions
+
+  * It is estimated there will be more than eight billion AI-enabled voice-assisted devices in use by
+    the end of 2020.
+  * 90 percent or more of on-device applications will contain AI elements along with AI-based interfaces
+    like vision or voice
+  * To address this need, Arm partnered with Fujitsu to create the Scalable Vector Extension (SVE)
+    technology, which is at the heart of Fugaku
+  * Building on that work, Arm has developed SVE2 for Armv9 to enable enhanced machine learning (ML) and
+    digital signal processing (DSP) capabilities across a wider range of applications.
+
+=== A Vision for tomorrow...
+
+*"Armv9 will enable developers to build and program the trusted compute platforms of tomorrow by bridging critical gaps between hardware and software, while enabling the standardization to help our partners balance faster time-to-market and cost control alongside the ability to create their own unique solutions"*
