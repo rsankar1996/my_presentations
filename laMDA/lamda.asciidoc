@@ -1,0 +1,20 @@
+= LaMDA
+Rakesh S
+
+=== Beware of bot
+
+==== Right
+image::figures/chat1.jpg[align="Right", width="50%"]
+
+==== Left
+image::figures/chat2.jpg[align="Left", width="50%"]
+
+=== Google I/O
+
+* *"Language Model for Dialogue Applications"*
+* Breakthrough conversation technology
+* Built on Transformer, a neural network architecture that Google Research invented and open-sourced in 2017
+* Not restricted to pre-fed answers.
+* This will soon empower Google Search and other Google-owned platforms.
+
+== See you in the next talk!!!
